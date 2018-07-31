@@ -3,7 +3,7 @@
 My Summer Project
 
 ### Introduction
-This python code will help us understand the sentiment of people correspondong to any issue or incident, by analyzing their comments on social media websites. 
+This python code will help us understand the sentiment of people corresponding to any issue or incident, by analyzing their comments on social media websites. 
 - Here, to connect with social media, we are using Twitter as the source of data. 
 - To pull data from twitter, a developer account is created and its API keys are generated, which are hidden in the source code
 
