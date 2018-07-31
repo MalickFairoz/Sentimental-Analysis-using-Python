@@ -1,4 +1,5 @@
-# Sentimental-Analysis-using-Python
+# <p align="center">Twitter Sentimental Analysis using Python</p> 
+
 My Summer Project
 
 ### Introduction
@@ -18,3 +19,5 @@ This python code will help us understand the sentiment of people correspondong t
       1.  Positive response
       2.  Negative resopnse
       3.  Neutral  response
+
+<p align="center"><img src="Twitter Sentimental Result.png"></p>
