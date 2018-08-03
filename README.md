@@ -1,4 +1,5 @@
 # <p align="center">Twitter Sentimental Analysis using Python</p> 
+<p align="center"><img src="Data/twitter_textblob.png"></p>
 
 My Summer Project
 
@@ -22,4 +23,4 @@ This python code will help us understand the sentiment of people corresponding t
       2.  Negative resopnse
       3.  Neutral  response
 
-<p align="center"><img src="Twitter Sentimental Result.png"></p>
+<p align="center"><img src="Data/Twitter Sentimental Result.png"></p>
