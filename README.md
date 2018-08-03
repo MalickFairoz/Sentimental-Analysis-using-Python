@@ -1,6 +1,6 @@
 # <p align="center">Twitter Sentimental Analysis using Python</p> 
-<p align="center"><img src="Data/twitter_textblob.png"></p>
 My Summer Project
+<p align="center"><img src="Data/twitter_textblob.png"></p>
 ### Introduction
 This python code will help us understand the sentiment of people corresponding to any issue or incident, by analyzing their comments on social media websites. 
 - Here, to connect with social media, we are using Twitter as the source of data. 
