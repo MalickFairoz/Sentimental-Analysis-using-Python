@@ -9,8 +9,8 @@ This python code will help us understand the sentiment of people corresponding t
 
 ### Project Description 
 - The API keys are hidden using environmental variables, so you need to generate your own API key to run this code in your machine
-- This python code uses TextBlob library, which will identify the polarity level of each word in the tweet and gives a score between 0 to 1 for each tweet. 
-- The tweet which has a polarity score closer to **0** is considered a negative response and closer to **1** is considered a positive response
+- This python code uses TextBlob library, which will identify the polarity level of each word in the tweet and gives a score between -1 to 1 for each tweet. 
+- The tweet which has a polarity score lesser than to **0** is considered a negative response and greater to **1** is considered a positive response
 - This project requires two inputs from the user for analyzation
 
       1.  The keyword for which the analysis needs to be performed
